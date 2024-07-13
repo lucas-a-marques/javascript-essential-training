@@ -3,6 +3,8 @@
  * @link https://developer.mozilla.org/en-US/docs/Glossary/Function
  */
 
+
+
 const tipCalculator = () => {
   let sum = 29.95;
   let percentage = 18;
